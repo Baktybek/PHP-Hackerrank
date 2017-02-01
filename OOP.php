@@ -1,4 +1,4 @@
-What's Object-Oriented Programming?
+/*What's Object-Oriented Programming?
 PHP is an object-oriented programming language, which means that you can create objects, 
   which can contain variables and functions.
 
@@ -13,3 +13,4 @@ And this shows why we use objects: we can bundle our functions and data in one p
 
 On the right, there is a Person class and one instance stored in $me on line 32. 
   Then the greet() method of the $me object is called and the result is echod on line 35.
+  */
